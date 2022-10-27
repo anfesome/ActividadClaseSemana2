@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Prueba de conflicto del achivo
+=======
+Hola Wil editó este archivo
+>>>>>>> 796dc4ddc9982087706f243b139fc2c6eef5afc2
